@@ -19,7 +19,7 @@ function App() {
     <UsersList users ={usersList}/>
 
     </div>
-  );
+  )
 }
 
 export default App;
